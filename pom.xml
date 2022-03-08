@@ -31,7 +31,7 @@
         <jersey-spring.version>2.28</jersey-spring.version>
         <mysql-connector.version>8.0.15</mysql-connector.version>
         <hibernate.version>5.4.2.Final</hibernate.version>
-        <liquibase.version>3.6.2</liquibase.version>
+        <liquibase.version>4.8.0</liquibase.version>
         <jacoco.version>0.8.2</jacoco.version>
         <swagger-request-validator.version>2.3.0</swagger-request-validator.version>
         <hsqldb.version>2.4.0</hsqldb.version>
